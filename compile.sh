@@ -1,0 +1,1 @@
+g++ tests.cpp && leaks --atExit -- ./a.out
